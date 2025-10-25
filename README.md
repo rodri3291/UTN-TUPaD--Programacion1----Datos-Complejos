@@ -1,6 +1,6 @@
 # UTN-TUPaD--Programacion1----Datos-Complejos
-UTN-TUPaD-Programaci-n1---Funciones
-Funciones Programaci-n1--- UTN-TUPaD--Programacion1 Trabajo Práctico 6
+UTN-TUPaD-Programaci-n1---Datos Complejos
+Datos Complejos Programaci-n1--- UTN-TUPaD--Programacion1 Trabajo Práctico 7
 
 Tecnicatura Universitaria en Programación 📍 Universidad Tecnológica Nacional
 
